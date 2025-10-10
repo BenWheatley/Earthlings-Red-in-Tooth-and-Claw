@@ -1,0 +1,12 @@
+- The Uncrowned (Lat. Xenoregis absconditus) – "The Uncrowned":
+  - Nature: Cosmic-horror species whose true forms defy Euclidean geometry; appear as shifting vortices of shadow, impossible angles, and iridescent fractal eyes, sometimes glimpsed as swarms of whispering, spined tendrils.
+  - Origin: Thought to hail from the event horizons of ancient collapsed stars, existing partly outside conventional space and time; their realm warps perception and causality.
+  - Morality: Operate on Orange/Blue logic—neither good nor evil by human standards, but pursue inscrutable cosmic aims. They value entropy, transformation, and the dissolution of boundaries; regard concepts like individuality, mercy, and "progress" as meaningless or contemptible.
+  - Social Structure: Hierarchies are fluid and multidimensional; leadership is determined by ability to manipulate reality and probability, not by rank or lineage.
+  - Powers: Capable of warping physical laws locally, distorting time, space, and causality in their presence; communication induces visions, madness, or enlightenment depending on the mind.
+  - Attitude Toward Humans: View humanity as fascinating anomalies—“the noisy children of dust”—whose rise disrupts cosmic equilibrium. Their interventions are at once predatory and curious, seeing humans as either puzzles to unravel or infestations to prune.
+  - Attitude Toward Martians & Other Species: Consider the Martians as dangerous but primitive “hunters”; other galactic species are either ignored or manipulated as pawns in greater cosmic games.
+  - Effect on Reality: Proximity to the Uncrowned may induce non-Euclidean phenomena, hallucinations, spontaneous decay of matter, or recursive, paradoxical events.
+  - Goals: Seek to restore cosmic entropy, unravel the fabric of ordered reality, and seed “awakening” through terror and revelation; occasionally bargain with lesser beings, but their gifts are always double-edged.
+  - Languages: Communicate through quantum interference patterns, dream-invasions, and impossible sculptures. Humans can only perceive fragments, typically as nightmares, cryptic riddles, or mass hysteria.
+  - Weaknesses: Bound by cosmic laws they themselves do not fully understand; cannot exist in environments of perfect order or purity, and are repelled by strong, coherent belief systems or united acts of will.

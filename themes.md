@@ -1,18 +1,11 @@
-# Themes
-
-This document outlines the main themes explored in the project *Earthlings: Red in Tooth and Claw*.
-
-## Theme 1: Nature vs. Nurture
-Discussion of how environment and upbringing influence behavior.
-
-## Theme 2: Survival of the Fittest
-Exploration of the concept of natural selection and its implications.
-
-## Theme 3: Ethical Dilemmas
-Examination of moral questions raised by the interactions between species.
-
-## Theme 4: Interconnectedness of Life
-Insight into the relationships among different life forms and ecosystems.
-
-## Theme 5: Human Impact
-Analysis of how human actions affect nature and other species.
+- Humanity's awakening: The failed Martian invasion has shattered Earth's isolation, thrusting mankind into an uncaring and dangerous galaxy.
+- Alien hostility: The galaxy views Earth as a disruptive newcomer, with most species fearing or resenting humans for their sudden arrival.
+- Survival in a hostile universe: Earth and its people must learn to adapt quickly, as galactic norms are shaped by species far older and harsher than humanity.
+- Martians as apex predators: The Martians, now a galactic menace, are infamous for their ruthlessness, technological superiority, and disregard for other life.
+- Human ingenuity and resilience: Despite being perceived as weak and primitive, humans surprise the galaxy with adaptability, innovation, and unexpected tenacity.
+- Disruption of galactic order: The violent actions of the Martians, followed by humanity’s sudden emergence onto the galactic stage, destabilize ancient power structures and provoke widespread tension, trade, and conflict.
+- The cost of progress: Humanity’s rapid advancement, spurred by Martian technology, brings both opportunity and peril—drawing the attention of powerful alien entities.
+- Ethics of coexistence: Questions arise about the moral implications of survival, warfare, and diplomacy when dealing with species shaped by violence.
+- Unlikely alliances: Facing common threats, humans and sympathetic alien factions may form fragile alliances, united in fear of Martian aggression.
+- The shadow of invasion: The memory of Martian war machines lingers, shaping Earth’s politics, culture, and its place in the galaxy.
+- The struggle for independence: Earth must fight for autonomy, balancing the lessons of Martian brutality with the hope of forging a new destiny among the stars.

@@ -9,7 +9,7 @@
   - Origin: Calcutta, Bengal Presidency, British India
   - Attitude: Polite but direct, quietly assertive; aware of colonial hierarchies but values scholarly merit above social standing.
   - Psych Profile: Melancholic intellect, meticulous and introspective; “uncommon moral courage” and “feminine resolve.”
-  - Interests: Medicine, botany, social reform, poetry.
+  - Interests: Physics, pure and applied mathematics, medicine, botany, social reform, poetry.
   - Skills: Fluent Bengali (native), English (advanced), Hindi (conversational), Sanskrit (scholarly). Medical expertise, botanical illustration, public health advocacy.
 
 - Monsieur Henri Duval (French; prefers "Monsieur Duval"):
